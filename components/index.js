@@ -6,7 +6,7 @@ import {
 export default class Alpha extends React.Component {
     render() {
         return (
-            <Text>hello world</Text>
+            <Text>H E L L O</Text>
         );
     }
 }
